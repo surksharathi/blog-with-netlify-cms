@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Gatsby Starter Blog"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Here are the 6 cool facts about Indian foods: Indian food is awesome! Indian food is awesome! Indian food is awesome! Indian food is awesome…","fields":{"slug":"/2020-09-27-6-cool-facts-about-indian-foods/"},"frontmatter":{"date":"September 27, 2020","title":"6 cool facts about Indian foods","description":null}},{"excerpt":"This post is written using Netlify CMS and I didn’t have to open the text editor!","fields":{"slug":"/2020-09-27-another-post-from-netlify-cms/"},"frontmatter":{"date":"September 27, 2020","title":"Another post from Netlify CMS","description":null}},{"excerpt":"This is the post body where I write about how to make sandwich so good that even impress Gordon Ramsay.","fields":{"slug":"/2020-09-27-how-to-make-sandwiches-like-a-pro/"},"frontmatter":{"date":"September 27, 2020","title":"How to make sandwiches like a pro","description":null}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","916993862"]}
