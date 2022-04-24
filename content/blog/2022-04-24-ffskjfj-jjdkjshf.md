@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: ffskjfj jjdkjshf
+title: How to improve life style
 date: 2022-04-24T07:52:01.158Z
 ---
 ![imnages](/img/ffclygrwuay7jsq.jpeg "girls")
