@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 6 cool facts about Indian foods
+title: "6 cool facts about Indian foods ########"
 date: 2020-09-27T16:29:24.658Z
 ---
 Here are the 6 cool facts about Indian foods:
